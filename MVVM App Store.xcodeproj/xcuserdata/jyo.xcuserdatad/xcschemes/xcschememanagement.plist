@@ -9,6 +9,11 @@
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>MVVMAppStoreModel.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
@@ -18,6 +23,16 @@
 			<true/>
 		</dict>
 		<key>3256696A1E6B1113003996F3</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>325669841E6B1581003996F3</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>3256698C1E6B1581003996F3</key>
 		<dict>
 			<key>primary</key>
 			<true/>

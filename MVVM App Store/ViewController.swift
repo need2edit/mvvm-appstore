@@ -7,6 +7,7 @@
 //
 
 import UIKit
+import MVVMAppStoreModel
 
 class ViewController: UIViewController {
 
